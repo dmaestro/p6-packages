@@ -5,6 +5,6 @@ class Base {
     has $.core;
 }
 
-class Thing is Base is export {
+class Thing is Base {
     has $.the-thing;
 }
